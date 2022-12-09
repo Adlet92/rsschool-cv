@@ -1,5 +1,5 @@
 # **Adlet Baiteliyev**
-<!-- <img src="1.jpeg" width="200"> -->
+<img src="1.jpeg" width="200">
 
 ## **Contacts**
 ---
