@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    /* background-color: rgb(253, 254, 255); */
+    background: #585c68;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full {
+    width: 50%;
+    max-width: 1000px;
+    min-height: 100px;
+    background-color: rgb(245, 239, 231);
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.left {
+    position: initial;
+    background-color: #0bb5f4;
+    padding: 20px;
+  
+}
+
+.right {
+    position: initial; 
+    background-color: white;
+    padding: 20px;
+  
+}
+.full, .left ul li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.name{
+    color: #fff;
+}
+.desc{
+    padding-bottom: 10px;
+}
+.Language, .Skills, ul li{
+    justify-content: space-between;
+}
+.skill_progress{
+    width: 70%;
+    background-color: #ddd;
+}
+.skills{
+    text-align: right;
+    padding-right: 20px;
+    line-height: 20px;
+    color: #0bb5f4;
+}
+.python, .javascript, .sql, .spanish{
+    width: 70%;
+    background-color: #fff;
+}
+.golang, .excel, .english{
+    width: 90%;
+    background-color: #fff;
+}
+.kazakh, .russian{
+    width: 100%;
+    background-color: #fff;
+}
+.Contact, .Skills, .Language, .Hobbies, .title, 
+.Summary, .Experience, .Education{
+    margin-bottom: 30px;
+}
+.h2 {
+    background-color: rgb(4, 96, 150);
+}
+.course, .projects, .skill, .languages {
+    padding: 0 15px;
+}
+.code{
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+}
+.Contact, .Skills, .Language{
+    color: #fff;
+}
+.Contact, .Skills{
+    padding: 15px 0;
+    border-bottom: 2px solid #b1eaff;
+}
+.Summary, .Education{
+    padding: 15px 0;
+    border-bottom: 2px solid #0bb5f4;
+}
+.space, .image{
+    padding-bottom: 12px;
+}
+.blue{
+    color: #0bb5f4;
+    padding-bottom: 10px;
+}
+.regular{
+    color: #b1eaff;
+}
+
+.copy, .logo{
+   display: inline-block;
+}
+.copy{
+    margin-left: 10%;
+}
