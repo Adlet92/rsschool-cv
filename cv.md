@@ -1,5 +1,5 @@
 # **Adlet Baiteliyev**
-<!-- <img src="./img/1.jpeg" width="200"> -->
+<img src="./img/1.jpeg" width="200">
 
 ## **Contacts**
 ---
@@ -10,6 +10,8 @@
 * **Discord:** Adletb
 
 ## **About me**
+---
+I set myself the goal of changing the field of activity from an IT analyst to a Frontend developer specialization.
 
 ## **Skills**
 ---
